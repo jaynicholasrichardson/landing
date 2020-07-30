@@ -13,7 +13,6 @@
 .cards {
   display: flex;
   justify-content: space-between;
-  /* position: relative; */
 }
 
 .card img {
