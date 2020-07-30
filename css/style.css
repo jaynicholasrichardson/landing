@@ -26,3 +26,26 @@ a {
   /* justify-content: center; */
   /* align-items: center; */
 }
+
+@media (max-width: 960px) {
+  .container {
+    width: 700px;
+  }
+}
+@media (max-width: 720px) {
+
+  .container {
+    width: 500px;
+  }
+}
+
+@media (max-width: 540px) {
+  .container {
+    width: 300px;
+  }
+}
+
+.responsive {
+  width: 100%;
+  height: auto;
+}
