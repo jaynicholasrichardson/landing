@@ -1,0 +1,24 @@
+.footer {
+  background: linear-gradient(rgb(255,176,3), rgb(255,197,41)),
+    cadetblue;
+  padding: 100px 0;
+  margin-top: 40px;
+  color: white;
+  text-align: center;
+}
+
+.footer a {
+  text-decoration: none;
+  color: white;
+  font-size: 32px;
+  padding: 6px;
+  transition: 350ms ease-in-out;
+}
+
+.footer a:hover {
+  font-size: 40px;
+}
+
+.footer p {
+  font-size: x-large;
+}

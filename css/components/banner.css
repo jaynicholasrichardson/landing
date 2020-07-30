@@ -1,0 +1,35 @@
+.banner {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(/landing/images/background.png);
+  object-fit: cover;
+  background-position: center;
+  background-size: cover;
+  padding: 200px 0px;
+  color: white;
+  width: 100%;
+}
+
+.banner h1 {
+  font-size: 40px;
+  margin: 0;
+}
+
+.banner p {
+  font-size: larger;
+  opacity: 0.8;
+  margin-top: 0px;
+  padding-bottom: 16px;
+}
+
+.banner a {
+  color: white;
+  background-color: rgb(255,197,41);
+  padding: 15px 25px;
+  border-radius: 50px;
+  margin-top: 15px;
+  transition: 600ms ease-in-out;
+}
+
+.banner a:hover {
+  background-color: (rgb(255,176,3);
+}
